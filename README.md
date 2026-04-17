@@ -66,10 +66,13 @@ Evaluation Metrics:Models are evaluated using Root Mean Squared Error ($RMSE$), 
 4. The "What-If" Mitigation Simulation
    Run 04_Mitigation_Simulation.ipynb. This is the core novelty of the project. We take the test dataset, artificially boost the NDVI values by 20%, and use our best-performing model (e.g., XGBoost) to predict the new LST. This simulates a targeted tree-planting campaign in Karachi's hottest zones.
 
-##  📊 Results(Note: Update this section once your models are fully trained)Best Performing Model: [e.g., XGBoost with $R^2$ = 0.89]Simulation Impact: A simulated 20% increase in NDVI resulted in an average local temperature drop of [X.X] °C in highly built-up areas like Saddar and Lyari.
+##  📊 Results
+(Note: Update this section once your models are fully trained)
+Best Performing Model: [e.g., XGBoost with $R^2$ = 0.89]
+Simulation Impact: A simulated 20% increase in NDVI resulted in an average local temperature drop of [X.X] °C in highly built-up areas like Saddar and Lyari.
 
 ##  👥 Contributors
-Syed Waleed Hussain- GEE Data Pipeline & Modeling
-Abdul Salam - Data Preprocessing & EDA
-Ebrahim Moen - Model Evaluation & Visualizations
-Saniya - Research Documentation & Simulation Analysis
+### Syed Waleed Hussain- GEE Data Pipeline & Modeling
+### Abdul Salam - Data Preprocessing & EDA
+### Ebrahim Moen - Model Evaluation & Visualizations
+### Saniya - Research Documentation & Simulation Analysis
