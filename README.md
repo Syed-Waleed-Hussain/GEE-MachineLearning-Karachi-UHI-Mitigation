@@ -72,7 +72,7 @@ Best Performing Model: [e.g., XGBoost with $R^2$ = 0.89]
 Simulation Impact: A simulated 20% increase in NDVI resulted in an average local temperature drop of [X.X] °C in highly built-up areas like Saddar and Lyari.
 
 ##  👥 Contributors
-### Syed Waleed Hussain- GEE Data Pipeline & Modeling
+### Syed Waleed Hussain - GEE Data Pipeline & Modeling
 ### Abdul Salam - Data Preprocessing & EDA
 ### Ebrahim Moen - Model Evaluation & Visualizations
 ### Saniya - Research Documentation & Simulation Analysis
